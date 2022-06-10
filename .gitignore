@@ -1,3 +1,6 @@
-# ignore editor files
+# editor files
 *~
 *\#
+
+# binaries
+*.swp
